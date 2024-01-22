@@ -20,6 +20,7 @@ In the field of autonomous driving, online high-definition (HD) map reconstructi
 | **ADMap**   | R50 & SECOND | **66.6**     | **63.3**    | **74.0**    | **68.0**    | **5.8**    |
 | MapTRv2  | R50 & SECOND | 65.6      | 66.5     | 74.8   | 69.0   | 5.8  |
 | **ADMapv2**  | R50 & SECOND   | **67.9**     | **68.5**    | **74.5**    | **70.3**    | **6.1**    |
+-  <sup></sup> FPS is measured on NVIDIA RTX3090 GPU with batch size of 1.
 
 ### Argoverse2 val
 | Method                 | Backbone                                            | $AP_{div}$       |  $AP_{ped}$        |  $AP_{bou}$        | mAP        | FPS        |
@@ -28,6 +29,8 @@ In the field of autonomous driving, online high-definition (HD) map reconstructi
 | **ADMap**  | R50 | **68.9**     | **60.3**    | **64.9**    | **64.7**    | **14.2**    |
 | MapTRv2  | R50 & SECOND | 62.9      | 72.1     | 67.1   | 67.4   | 12.0  |
 | **ADMapv2**  | R50 & SECOND   | **72.4**     | **64.5**    | **68.9**    | **68.7**    | **13.9**    |
+
+-  <sup></sup> FPS is measured on NVIDIA RTX3090 GPU with batch size of 1.
 
 ### Visualization results
 #### nuScenes Visualization
