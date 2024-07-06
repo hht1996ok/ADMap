@@ -1,7 +1,7 @@
 # ADMap: Anti-disturbance framework for reconstructing online vectorized HD map
 Due to confidentiality rules, the open source code is extra replicated. If it doesn't work correctly, ask a question in the issue and we'll fix the problem as soon as possible.
 ## New
-+ **2024.7.6**   ADMap has been indexed by ECCV2024！
++ **2024.7.6**    ADMap has been indexed by ECCV2024！
 + **2024.1.22**   create README.md
 
 ## Abstract
