@@ -9,7 +9,7 @@ In the field of autonomous driving, online high-definition (HD) map reconstructi
 
  ![pipeline](./arch.png)
 
-### [paper]()
+### [paper](https://arxiv.org/pdf/2401.13172)
 
 ## Main Result
 ### nuScenes val
